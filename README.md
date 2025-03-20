@@ -39,4 +39,4 @@ Otro tipo de objeto necesario será **Jugador**.
 
 Crea una página web que, utilizando JavaScript, cree una baraja de cartas, barajee y reparta cinco cartas a un jugador.
 
-La página deberá mostrar la imagen de estas cinco cartas por pantalla (utilizar los ficheros SVG que encontrarás en el fichero `cartas.zip`) e indicar la jugada obtenida por el jugador.
+La página deberá mostrar la imagen de estas cinco cartas por pantalla (utilizar los ficheros SVG que encontrarás en el directorio `cartas`) e indicar la jugada obtenida por el jugador.
